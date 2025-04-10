@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a frontend developer passionate about crafting beautiful, fast, and accessible user interfaces. I love turning ideas into reality with React, TypeScript, and Tailwind CSS. ⚡<br><br>📌 Tech Stack<br>🛠️ React | TypeScript | JavaScript | Tailwind CSS | Supabase | Vite | Storybook
-
+Hi there! I'm a frontend developer passionate about crafting beautiful, fast, and accessible user interfaces. I love turning ideas into reality with React, TypeScript, and Tailwind CSS. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amoditjha?igsh=NDI4d3N5N2pzczRr&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amoditjha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amodit701@gmail.com) [![portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?logo=Google-Chrome&logoColor=white)](https://amodits-portfolio.vercel.app/)
