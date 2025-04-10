@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a frontend developer passionate about crafting beautiful, fast, and accessible user interfaces. I love turning ideas into reality with React, TypeScript, and Tailwind CSS.<br><br>🔹 Building: A Job Tracker to help job seekers stay organized 🎯<br>🔹 Exploring: Figma to refine my UI/UX design skills 🎨<br>🔹 Optimizing: Performance, state management, and responsive design ⚡<br><br>📌 Tech Stack<br>🛠️ React | TypeScript | JavaScript | Tailwind CSS | Supabase | Vite | Storybook
+Hi there! I'm a frontend developer passionate about crafting beautiful, fast, and accessible user interfaces. I love turning ideas into reality with React, TypeScript, and Tailwind CSS. ⚡<br><br>📌 Tech Stack<br>🛠️ React | TypeScript | JavaScript | Tailwind CSS | Supabase | Vite | Storybook
 
 
 ## 🌐 Socials:
